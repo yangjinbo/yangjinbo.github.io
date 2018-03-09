@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>org.cocos2dx.ggxc</string>
+				<string>com.gg.xc</string>
 				<key>bundle-version</key>
 				<string>1</string>
 				<key>kind</key>
