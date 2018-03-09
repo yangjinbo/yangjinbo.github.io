@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>大ICON图标的URL</string>
+					<string>http://10.10.1.109:9080/Icon-180.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>小ICON图标的URL</string>
+					<string>http://10.10.1.109:9080/Icon-29.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
