@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>org.cocos2dx.ggxc</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>GG</string>
+				<string>ggxc</string>
 				<key>title</key>
-				<string>GG</string>
+				<string>ggxc</string>
 			</dict>
 		</dict>
 	</array>
